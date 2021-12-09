@@ -1,0 +1,34 @@
+C:\Users\tropo\source\repos\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.exe
+C:\Users\tropo\source\repos\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.deps.json
+C:\Users\tropo\source\repos\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.runtimeconfig.json
+C:\Users\tropo\source\repos\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.dll
+C:\Users\tropo\source\repos\zadanie1\zadanie1\bin\Debug\net6.0-windows\ref\zadanie1.dll
+C:\Users\tropo\source\repos\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.pdb
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.csproj.AssemblyReference.cache
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.AssemblyInfoInputs.cache
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.AssemblyInfo.cs
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.dll
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\ref\zadanie1.dll
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.pdb
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.genruntimeconfig.cache
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.Form1.resources
+C:\Users\tropo\source\repos\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.csproj.GenerateResource.cache
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.csproj.AssemblyReference.cache
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.Form1.resources
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.csproj.GenerateResource.cache
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.AssemblyInfoInputs.cache
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.AssemblyInfo.cs
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.dll
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\ref\zadanie1.dll
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.pdb
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.exe
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.deps.json
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.runtimeconfig.json
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.dll
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\bin\Debug\net6.0-windows\ref\zadanie1.dll
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\bin\Debug\net6.0-windows\zadanie1.pdb
+C:\Users\tropo\OneDrive\Рабочий стол\zadanie1\zadanie1\obj\Debug\net6.0-windows\zadanie1.genruntimeconfig.cache
